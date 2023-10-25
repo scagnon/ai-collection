@@ -17,25 +17,7 @@
     <br />
 </div>
 
----
 
-> My brothers and sisters in Israel were slaughtered by Hamas terrorists. I was drafted to protect my country. I may be slow to respond.
-
----
-
-<div align="center">
-    <h4>Status</h4>
-
-<a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=927" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
-</a>
-
-[![Validate Links](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml/badge.svg)](https://github.com/ai-collection/ai-collection/actions/workflows/lychee-action.yml)
-
-</div>
 
 ---
 
@@ -56,46 +38,6 @@ Translations:
 - Hindi हिंदी: [README.hi.md](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
 
 ---
-
-<div align="center">
-    <h5>Top Picks</h5>
-    <p>AI Collection's top picks are</p>
-</div>
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://static.tapfiliate.com/64f970e24e02d007847701.jpeg?a=135466-856f82" alt="HIX.AI" border="0"/>
-    </a>
-    <h4>The Most Powerful, All-in-One
-AI Writing Copilot</h4>
-    <p>IX.AI: Your Most Powerful, All-In-One AI Writing Copilot. Generate high-quality copies for ads, emails, blogs, and more in seconds with HIX.AI, the most powerful, all-in-one AI writing copilot on the market.</p>
-    <a href="https://www.thataicollection.com/redirect/hix.ai" target="_blank"><b>Get Started with HIX.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-
----
-
-<div align="center">
-    <h5>Awesome Tools for your AI Application</h5>
-</div>
-
-
-<div align="center">
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://aicollection.twic.pics/screenshots/screenshot-usertrail.webp" alt="usertrail" border="0"/>
-    </a>
-    <h4>Simple and Powerful Event Tracking for Modern Apps.</h4>
-    <p>Capture, track, and visualize every user milestone, making data-driven decisions simpler than ever.
-Monitor -Stay Updated. Anytime, Anywhere.
-Visualize - Clear & Elegant Dashboard. In minutes.
-Capture - Effortless Integration.</p>
-    <a href="https://www.thataicollection.com/redirect/usertrail/?utm_source=aicollection&utm_medium=github&utm_campaign=developerstools" target="_blank"><b>Get Started with usertrail</b></a>
-    <br />
-</div>
-
 
 ---
 
